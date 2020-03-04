@@ -1,0 +1,5 @@
+C:\Users\cantro\source\repos\FreqAnalysis\FreqAnalysis\bin\Debug\FreqAnalysis.exe.config
+C:\Users\cantro\source\repos\FreqAnalysis\FreqAnalysis\bin\Debug\FreqAnalysis.exe
+C:\Users\cantro\source\repos\FreqAnalysis\FreqAnalysis\bin\Debug\FreqAnalysis.pdb
+C:\Users\cantro\source\repos\FreqAnalysis\FreqAnalysis\obj\Debug\FreqAnalysis.exe
+C:\Users\cantro\source\repos\FreqAnalysis\FreqAnalysis\obj\Debug\FreqAnalysis.pdb
